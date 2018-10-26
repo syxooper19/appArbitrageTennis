@@ -1,0 +1,46 @@
+page-match-en-cours {
+    #j1{
+        text-align: center;
+        font-size: 1em;
+    }
+
+    #j2{
+        text-align: center;
+        font-size: 1em;
+    }
+
+    #j1-score{
+        text-align: center;
+        font-size: 2em;
+    }
+
+    #j2-score{
+        text-align: center;
+        font-size: 2em;
+    }
+
+    #scoreSet{
+        text-align: right;
+    }
+
+    span.compteurGauche{
+        text-align: left;
+    }
+
+    span.compteurDroit{
+        text-align: right;
+    }
+
+    p{
+        margin: 0%;
+    }
+
+    #numSet{
+        text-align: center;
+        font-weight: bold;
+    }
+
+    #serveurEnCours{
+        height: 1em;
+    }
+}
